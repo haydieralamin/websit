@@ -1,0 +1,30 @@
+.content{
+    background-color: rgb(255, 208, 0);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgb(rgb(236, 88, 2), rgb(0, 65, 204), rgb(231, 208, 0));
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+td{
+    color: rgb(5, 5, 218);
+}
+td{
+    color: rgb(0, 40, 151);
+}
+h1{
+    color: darkblue;
+}
+h2{
+    color: rgb(206, 55, 0);
+}
+table,th,td{
+    border: 1px solid black;
+}
+.content,h1,h2{
+    text-align: center;
+}
